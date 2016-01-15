@@ -18,3 +18,9 @@ project/plugins/project/
 
 # IntelliJ specific
 .idea
+/bin/
+/.settings/
+/.cache-main
+/.cache-tests
+/.classpath
+/.project
